@@ -1,2 +1,2 @@
 # Arrays-to-strings
-Converting arrays to strings
+["a", "b", "c"].join() === "a,b,c"
